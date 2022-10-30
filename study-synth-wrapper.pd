@@ -1,2 +1,2 @@
-#N canvas 1377 0 303 1020 12;
-#X obj 12 355 study-synth;
+#N canvas 0 0 1680 1020 12;
+#X obj 10 293 study-synth;
